@@ -46,8 +46,9 @@ $(".fa-circle-xmark").on("click",function(){
     $("nav ul").css("right","-200px");
 });
 
+
 var width = screen.width;
 
 if(width <=600){
-    $(".name-title").html("<p>Hi, I'm <br><span>Nachiketh</span> N<br>From India</p>");
+    $(".name-title").html("<p>Hi, I'm <br><span>Nachiketh</span><br>From India</p>");
 }
