@@ -49,6 +49,6 @@ $(".fa-circle-xmark").on("click",function(){
 
 var width = screen.width;
 
-if(width <=600){
+if(width < 600){
     $(".name-title").html("<p>Hi, I'm <br><span>Nachiketh</span><br>From India</p>");
 }
