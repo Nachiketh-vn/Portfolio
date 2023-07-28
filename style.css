@@ -17,7 +17,7 @@ body{
 #header{
     width: 100vw;
     height: 100vh;
-    background-image: url("images/IMG-20230724-WA0010.jpg");
+    background-image: url("IMG-20230724-WA0010.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;  /*this will make our background-image fixed looks like parallax*/
@@ -263,7 +263,7 @@ nav .fa-solid{
 /* Css For Small Screens */
 @media only screen and (max-width:600px){
     #header{
-        background-image: url(images/IMG-20230724-WA0012.jpg);
+        background-image: url(IMG-20230724-WA0012.jpg);
     }
     .header-text{
         margin-top: 100%;
